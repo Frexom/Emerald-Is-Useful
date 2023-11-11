@@ -16,7 +16,7 @@ public class ModItems {
     public static final Item EMERALD_SWORD = registerItem("emerald_sword", new SwordItem(ModToolMaterials.EMERALD, 4, -2.4f, new FabricItemSettings()));
     public static final Item NEMERITE_SWORD = registerItem("nemerite_sword", new SwordItem(ModToolMaterials.NEMERITE, 6, -2.4f, new FabricItemSettings()));
     public static final Item EMERALD_PICKAXE = registerItem("emerald_pickaxe", new PickaxeItem(ModToolMaterials.EMERALD, 1, -2.8f, new FabricItemSettings()));
-
+    public static final Item NEMERITE_PICKAXE = registerItem("nemerite_pickaxe", new PickaxeItem(ModToolMaterials.NEMERITE, 1, -2.8f, new FabricItemSettings()));
     public static final Item DIAMOND_AND_EMERALD = registerItem("diamond_and_emerald", new Item(new FabricItemSettings()));
     public static final Item EMERALD_INGOT = registerItem("emerald_ingot", new Item(new FabricItemSettings()));
     public static final Item NEMERITE_INGOT = registerItem("nemerite_ingot", new Item(new FabricItemSettings()));
@@ -26,6 +26,7 @@ public class ModItems {
         entries.add(EMERALD_SWORD);
         entries.add(NEMERITE_SWORD);
         entries.add(EMERALD_PICKAXE);
+        entries.add(NEMERITE_PICKAXE);
         entries.add(DIAMOND_AND_EMERALD);
         entries.add(EMERALD_INGOT);
         entries.add(NEMERITE_INGOT);

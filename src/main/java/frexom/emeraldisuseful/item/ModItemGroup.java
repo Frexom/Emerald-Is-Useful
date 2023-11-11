@@ -23,6 +23,7 @@ public class ModItemGroup  {
                 entries.add(ModItems.EMERALD_SWORD);
                 entries.add(ModItems.NEMERITE_SWORD);
                 entries.add(ModItems.EMERALD_PICKAXE);
+                entries.add(ModItems.NEMERITE_PICKAXE);
             }).build());
     public static void registerItemGroup(){
         EmeraldIsUseful.LOGGER.info("Registering item group for " + EmeraldIsUseful.MOD_ID);
