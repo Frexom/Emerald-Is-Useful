@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "emerald_ingot",
+  "ingredient": {
+    "item": "emerald-is-useful:diamond_and_emerald"
+  },
+  "result": "emerald-is-useful:emerald_ingot"
+}

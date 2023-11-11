@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "emerald-is-useful:nemerite_ingot"
+  },
+  "base": {
+    "item": "emerald-is-useful:emerald_sword"
+  },
+  "result": {
+    "item": "emerald-is-useful:nemerite_sword"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}
