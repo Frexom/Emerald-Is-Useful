@@ -20,6 +20,7 @@ public class ModItemGroup  {
                 entries.add(ModItems.DIAMOND_AND_EMERALD);
                 entries.add(ModItems.EMERALD_INGOT);
                 entries.add(ModItems.NEMERITE_INGOT);
+                entries.add(ModItems.NEMERITE_SMITHING_TEMPLATE);
                 entries.add(ModItems.EMERALD_SWORD);
                 entries.add(ModItems.NEMERITE_SWORD);
                 entries.add(ModItems.EMERALD_PICKAXE);

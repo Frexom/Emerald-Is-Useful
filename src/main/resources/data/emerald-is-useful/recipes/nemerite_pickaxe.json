@@ -10,6 +10,6 @@
     "item": "emerald-is-useful:nemerite_pickaxe"
   },
   "template": {
-    "item": "minecraft:netherite_upgrade_smithing_template"
+    "item": "emerald-is-useful:nemerite_smithing_template"
   }
 }

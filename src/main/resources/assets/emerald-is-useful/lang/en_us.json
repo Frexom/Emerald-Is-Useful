@@ -6,7 +6,8 @@
   "item.emerald-is-useful.emerald_pickaxe" : "Emerald Pickaxe",
   "item.emerald-is-useful.nemerite_pickaxe" : "Nemerite Pickaxe",
   "item.emerald-is-useful.diamond_and_emerald" : "Diamond and Emerald",
+  "item.emerald-is-useful.nemerite_smithing_template" : "Nemerite Smithing Template",
 
 
-  "itemgroup.emerald-is-useful" : "Emerald Is Useful"
+  "itemgroup.emerald-is-useful" : "Emerald Is Useful!"
 }
