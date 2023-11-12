@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "emerald-is-useful:pyramid",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1053525324,
+    "spacing": 50,
+    "separation": 35,
+    "type": "minecraft:random_spread"
+  }
+}
