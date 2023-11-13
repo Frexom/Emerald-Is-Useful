@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "emerald-is-useful:nemerite_ingot"
+  },
+  "base": {
+    "item": "emerald-is-useful:emerald_hoe"
+  },
+  "result": {
+    "item": "emerald-is-useful:nemerite_hoe"
+  },
+  "template": {
+    "item": "emerald-is-useful:nemerite_smithing_template"
+  }
+}
