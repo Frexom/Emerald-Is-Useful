@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "X": {
+      "item": "emerald-is-useful:nemerite_smithing_template"
+    },
+    "O": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "item": "emerald-is-useful:nemerite_smithing_template",
+    "count": 3
+  },
+  "show_notification": true
+}
