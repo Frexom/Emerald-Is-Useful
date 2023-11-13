@@ -15,14 +15,22 @@ public class ModItemGroup  {
     public static final ItemGroup EMERALD_GROUP = Registry.register(Registries.ITEM_GROUP,
         new Identifier(EmeraldIsUseful.MOD_ID, "emerald_sword"),
         FabricItemGroup.builder().displayName(Text.translatable("itemgroup.emerald-is-useful"))
-            .icon(() -> new ItemStack(ModItems.EMERALD_SWORD)).entries((displayContext, entries) -> {
+            .icon(() -> new ItemStack(Items.EMERALD)).entries((displayContext, entries) -> {
                 entries.add(Items.EMERALD);
                 entries.add(ModItems.DIAMOND_AND_EMERALD);
                 entries.add(ModItems.EMERALD_INGOT);
                 entries.add(ModItems.NEMERITE_INGOT);
+                entries.add(ModItems.NEMERITE_SMITHING_TEMPLATE);
+                entries.add(ModItems.EMERALD_SHOVEL);
+                entries.add(ModItems.NEMERITE_SHOVEL);
+                entries.add(ModItems.EMERALD_PICKAXE);
+                entries.add(ModItems.NEMERITE_PICKAXE);
+                entries.add(ModItems.EMERALD_AXE);
+                entries.add(ModItems.NEMERITE_AXE);
+                entries.add(ModItems.EMERALD_HOE);
+                entries.add(ModItems.NEMERITE_HOE);
                 entries.add(ModItems.EMERALD_SWORD);
                 entries.add(ModItems.NEMERITE_SWORD);
-                entries.add(ModItems.EMERALD_PICKAXE);
             }).build());
     public static void registerItemGroup(){
         EmeraldIsUseful.LOGGER.info("Registering item group for " + EmeraldIsUseful.MOD_ID);

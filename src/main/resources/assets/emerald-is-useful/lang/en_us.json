@@ -1,11 +1,19 @@
 {
   "item.emerald-is-useful.emerald_ingot" : "Emerald Ingot",
   "item.emerald-is-useful.nemerite_ingot" : "Nemerite Ingot",
+  "item.emerald-is-useful.emerald_shovel" : "Emerald Shovel",
+  "item.emerald-is-useful.nemerite_shovel" : "Nemerite Shovel",
+  "item.emerald-is-useful.emerald_pickaxe" : "Emerald Pickaxe",
+  "item.emerald-is-useful.nemerite_pickaxe" : "Nemerite Pickaxe",
+  "item.emerald-is-useful.emerald_axe" : "Emerald Axe",
+  "item.emerald-is-useful.nemerite_axe" : "Nemerite Axe",
+  "item.emerald-is-useful.emerald_hoe" : "Emerald Hoe",
+  "item.emerald-is-useful.nemerite_hoe" : "Nemerite Hoe",
   "item.emerald-is-useful.emerald_sword" : "Emerald Sword",
   "item.emerald-is-useful.nemerite_sword" : "Nemerite Sword",
-  "item.emerald-is-useful.emerald_pickaxe" : "Emerald Pickaxe",
   "item.emerald-is-useful.diamond_and_emerald" : "Diamond and Emerald",
+  "item.emerald-is-useful.nemerite_smithing_template" : "Nemerite Smithing Template",
 
 
-  "itemgroup.emerald-is-useful" : "Emerald Is Useful"
+  "itemgroup.emerald-is-useful" : "Emerald Is Useful!"
 }

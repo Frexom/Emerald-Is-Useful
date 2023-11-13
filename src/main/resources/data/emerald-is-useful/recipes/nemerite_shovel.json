@@ -4,10 +4,10 @@
     "item": "emerald-is-useful:nemerite_ingot"
   },
   "base": {
-    "item": "emerald-is-useful:emerald_sword"
+    "item": "emerald-is-useful:emerald_shovel"
   },
   "result": {
-    "item": "emerald-is-useful:nemerite_sword"
+    "item": "emerald-is-useful:nemerite_shovel"
   },
   "template": {
     "item": "emerald-is-useful:nemerite_smithing_template"
