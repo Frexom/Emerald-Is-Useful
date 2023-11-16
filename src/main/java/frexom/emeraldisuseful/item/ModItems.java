@@ -1,6 +1,7 @@
 package frexom.emeraldisuseful.item;
 
 import frexom.emeraldisuseful.EmeraldIsUseful;
+import frexom.emeraldisuseful.item.custom.KnifeItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
@@ -17,9 +18,11 @@ public class ModItems {
     public static final Item EMERALD_AXE = registerItem("emerald_axe", new AxeItem(ModToolMaterials.EMERALD, 6, -3f, new FabricItemSettings()));
     public static final Item NEMERITE_AXE = registerItem("nemerite_axe", new AxeItem(ModToolMaterials.NEMERITE, 8, -3f, new FabricItemSettings()));
     public static final Item EMERALD_HOE = registerItem("emerald_hoe", new HoeItem(ModToolMaterials.EMERALD, -3, 0, new FabricItemSettings()));
-    public static final Item NEMERITE_HOE = registerItem("nemerite_hoe", new HoeItem(ModToolMaterials.NEMERITE, -3, 0, new FabricItemSettings()));
+    public static final Item NEMERITE_HOE = registerItem("nemerite_hoe", new HoeItem(ModToolMaterials.NEMERITE, -4, 0, new FabricItemSettings()));
     public static final Item EMERALD_SWORD = registerItem("emerald_sword", new SwordItem(ModToolMaterials.EMERALD, 4, -2.4f, new FabricItemSettings()));
     public static final Item NEMERITE_SWORD = registerItem("nemerite_sword", new SwordItem(ModToolMaterials.NEMERITE, 6, -2.4f, new FabricItemSettings()));
+    public static final Item EMERALD_KNIFE = registerItem("emerald_knife", new KnifeItem(ModToolMaterials.EMERALD, new FabricItemSettings()));
+
     public static final Item NEMERITE_SMITHING_TEMPLATE = registerItem("nemerite_smithing_template", new Item(new FabricItemSettings()));
     public static final Item DIAMOND_AND_EMERALD = registerItem("diamond_and_emerald", new Item(new FabricItemSettings()));
     public static final Item EMERALD_INGOT = registerItem("emerald_ingot", new Item(new FabricItemSettings()));

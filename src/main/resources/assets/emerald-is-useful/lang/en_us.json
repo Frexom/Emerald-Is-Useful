@@ -11,8 +11,11 @@
   "item.emerald-is-useful.nemerite_hoe" : "Nemerite Hoe",
   "item.emerald-is-useful.emerald_sword" : "Emerald Sword",
   "item.emerald-is-useful.nemerite_sword" : "Nemerite Sword",
+  "item.emerald-is-useful.emerald_knife" : "Emerald Knife",
   "item.emerald-is-useful.diamond_and_emerald" : "Diamond and Emerald",
   "item.emerald-is-useful.nemerite_smithing_template" : "Nemerite Smithing Template",
+
+  "enchantment.emerald-is-useful.toxic_blade" : "Toxic Blade",
 
 
   "itemgroup.emerald-is-useful" : "Emerald Is Useful!"

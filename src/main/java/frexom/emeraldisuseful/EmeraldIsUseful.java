@@ -1,5 +1,6 @@
 package frexom.emeraldisuseful;
 
+import frexom.emeraldisuseful.enchantment.ModEnchantments;
 import frexom.emeraldisuseful.item.ModItemGroup;
 import frexom.emeraldisuseful.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,5 +16,6 @@ public class EmeraldIsUseful implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroup.registerItemGroup();
 		ModItems.registerModItems();
+		ModEnchantments.registerModEnchantments();
 	}
 }
