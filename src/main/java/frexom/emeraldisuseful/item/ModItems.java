@@ -21,7 +21,7 @@ public class ModItems {
     public static final Item NEMERITE_HOE = registerItem("nemerite_hoe", new HoeItem(ModToolMaterials.NEMERITE, -4, 0, new FabricItemSettings()));
     public static final Item EMERALD_SWORD = registerItem("emerald_sword", new SwordItem(ModToolMaterials.EMERALD, 4, -2.4f, new FabricItemSettings()));
     public static final Item NEMERITE_SWORD = registerItem("nemerite_sword", new SwordItem(ModToolMaterials.NEMERITE, 6, -2.4f, new FabricItemSettings()));
-    public static final Item EMERALD_KNIFE = registerItem("emerald_knife", new KnifeItem(ModToolMaterials.EMERALD, new FabricItemSettings()));
+    public static final Item EMERALD_KNIFE = registerItem("emerald_knife", new KnifeItem(ModToolMaterials.EMERALD, -1, -1.5f, new FabricItemSettings()));
 
     public static final Item NEMERITE_SMITHING_TEMPLATE = registerItem("nemerite_smithing_template", new Item(new FabricItemSettings()));
     public static final Item DIAMOND_AND_EMERALD = registerItem("diamond_and_emerald", new Item(new FabricItemSettings()));
